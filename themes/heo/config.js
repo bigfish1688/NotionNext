@@ -21,7 +21,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享云盘资源',
   HEO_HERO_TITLE_2: '与视频课程',
   HEO_HERO_TITLE_3: 'bigfish1688.site',
-  HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_4: '资源推荐',
   HEO_HERO_TITLE_5: '最新推荐资源',
   HEO_HERO_TITLE_LINK: 'https://www.bigfish1688.site',
 
@@ -49,9 +49,9 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
+  HEO_INFO_CARD_URL2: 'https://github.com/bigfish1688',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
+  HEO_INFO_CARD_URL3: 'https://www.bigfish1688.site',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
