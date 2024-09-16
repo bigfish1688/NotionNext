@@ -5,6 +5,7 @@ const Footer = ({ title }) => {
   const d = new Date()
   const currentYear = d.getFullYear()
   const since = siteConfig('SINCE')
+  
   const copyrightDate =
     parseInt(since) < currentYear ? since + '-' + currentYear : currentYear
 
